@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Quattrocento&family=Quattrocento+Sans&family=Roboto+Mono&family=Roboto+Slab&display=swap');
+
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: rgb(150, 112, 186);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    align-items: center;
+    width: 100; 
+    height: 100;
+}
